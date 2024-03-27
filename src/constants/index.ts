@@ -82,7 +82,7 @@ export const BG_COLOR: Colors = {
         blue: "bg-blue-500",
         orange: "bg-orange-500",
         yellow: "bg-yellow-500",
-        red: "bg-red-500",
+        red: "bg-[#D1051E]",
         purple: "bg-purple-500",
         amber: "bg-amber-500",
         lime: "bg-lime-500",
